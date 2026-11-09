@@ -1,0 +1,26 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-16T19:40:00Z"},
+  "lists": "css",
+  "title": "Krenak: Ideias para Adiar o Fim do Mundo",
+  "cover": "cover",
+  "order": [
+    "cover", "autor", "falas",
+    "clube", "natureza", "homogeneo",
+    "perspectivismo", "conhecer", "despersonalizar", "watu",
+    "caso-fatos", "caso-percurso", "caso-perspectivas", "fins-de-mundo", "estado",
+    "sonho", "paraquedas", "informacao", "computacao", "tensoes", "encerramento"
+  ],
+  "sections": {
+    "abertura": {"description": "Quem é Krenak e por onde o livro nos leva.", "start": "cover"},
+    "humanidade": {"description": "Somos mesmo uma humanidade? O clube, tudo é natureza, a narrativa globalizante.", "start": "clube"},
+    "rio": {"description": "Se tudo é natureza, o rio é alguém: perspectivismo e o Watu.", "start": "perspectivismo"},
+    "fundao": {"description": "Um mundo acabou: Fundão em dois mundos, e o Estado de 1808 a 2025.", "start": "caso-fatos"},
+    "paraquedas": {"description": "Cair com paraquedas: sonho, mais uma história, cultura e informação, colonialismo de dados, e o texto contra si mesmo.", "start": "sonho"}
+  },
+  "faces": {
+    "syne": {"family": "Syne", "href": "https://fonts.googleapis.com/css2?family=Syne:wght@500..800&display=swap"},
+    "source-serif-4": {"family": "Source Serif 4", "href": "https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,300..700;1,300..700&display=swap"}
+  },
+  "designSystems": []
+}

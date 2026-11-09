@@ -1,0 +1,6 @@
+# gerados a qualquer hora a partir do index.html
+export/
+_render.html
+# livro escaneado (obra protegida): fica só na máquina
+Seminário.pdf
+*.pdf
